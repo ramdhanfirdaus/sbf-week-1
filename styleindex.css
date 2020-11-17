@@ -1,0 +1,32 @@
+div {
+    text-align: center;
+    color:rgb(2, 71, 7);
+}
+.pages {
+    text-align: right;
+}
+
+img{
+    border-radius: 100%;
+}
+body{
+    background-color: rgb(148, 241, 156);
+}
+
+.home{
+    color: rgb(255, 255, 255);
+    display: flex;
+    margin-bottom: 10px;  
+}
+.education{
+    align-items: center;
+}
+
+.row{
+    justify-content: center;
+    display: flex;
+}
+
+.karakter{
+    align-items: center;
+}
